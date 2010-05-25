@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSinal" value="name:data;datatype:datetime,name:sinal;datatype:int" />
+</info>

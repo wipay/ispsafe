@@ -1,0 +1,191 @@
+* {
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 0px ;
+}
+a {
+	text-decoration: none;
+	color: #0e0e84;
+}
+
+.espacoInterno {
+	max-width:  585px;
+	min-width:  75%;
+	width:  100%;
+	margin: 0px;
+	padding: 0px;
+	background-position: center top;
+	clear: both;
+
+}
+
+.celTitulo1 {
+	background-color: #EFF3FF;
+	background-position: center center;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+
+}
+#tblInicio {
+	background-attachment: fixed;
+	background-position: center top;
+	margin: 0px;
+	padding: 4px;
+	clear: both;
+	float: none;
+	width: 100%;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.celDescricao {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	background-color: #EFF3FF;
+	background-position: right center;
+	text-align: right;
+}
+.celValor1 {
+	background-color: #FAFAFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #666666;
+	font-variant: normal;
+	text-transform: uppercase;
+	font-style: normal;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+
+.CampoForm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: right;
+	margin: 0px;
+	padding: 3px;
+	clear: both;
+	height: auto;
+	width: 70%;
+	vertical-align: text-top;
+}
+#txtNasName, #txtShortName, #txtSecret, #txtDescription, #txtDominio, #txtSnmp, #txtPlano, #txtConfig, #txtObservacoes,
+#cmbPop, #txtIp, #txtAccessPoint, #cmbStatus, #cmbGrupo, #cmbNivel, #txtSenha, #txtUsuario, #txtNome, #cmbPagina,
+#txtRgIe, #txtCpfCnpj, #txtEmail, #txtObservacoes, #cmbBanda, #cmbAccessPoint, #txtValor, #cmbBusca, #txtMac,
+#txtWpa, #txtPortaHttp, #txtPortaSsh, #cmbSituacao, #cmbMac, #txtEqpto {
+	width: 250px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#txtNumero{
+	width: 29px;
+}
+#txtCep{
+	width: 49px;
+}
+#txtEndereco{
+	width: 220px;
+}
+#txtBairro{
+	width: 200px;
+}
+#txtTelefone, #txtCelular{
+	width: 124px;
+}
+fieldset {
+	border: thin inset #C0C0C0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 2px;
+	padding: 6px;
+}
+li {
+	list-style-position: inside;
+	list-style-type: circle;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.usuarioBloqueado {
+	text-decoration: line-through;
+	background-color: #FF8080;
+}
+.paginasIntrodutorias {
+	margin: 3px;
+	padding: 3px;
+	clear: both;
+	float: left;
+	height: auto;
+	width: 75%;
+}
+.erro {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #FF0000;
+    border: thin solid #FF0000;
+    font-weight: bold;
+    background-color: #FFFFCC;
+    margin: 5px;
+    padding: 10px;
+  }
+
+
+.msg {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #006600;
+    border: thin solid #00FF00;
+    font-weight: bold;
+    background-color: #CCFFCC;
+    margin: 5px;
+    padding: 10px;
+  }
+  
+.paginaNaoPermitida{
+	color: #0000CC;
+}
+
+#eqptoExterno {
+	text-align:right;
+	width:400px;
+}
+
+#eqptoInterno {
+	float:right;
+	clear:left;
+	text-align:right;
+	width:200px;
+}
+.medidorSinal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+#iframeSinal {
+	clear: both;
+	float: left;
+}
+#iframeAutenticado{
+	clear: both;
+	float: right;
+}.log {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
