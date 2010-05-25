@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCliente" value="name:id;datatype:int,name:usuario;datatype:string,name:senha;datatype:string,name:dominio;datatype:string,name:pop;datatype:string,name:ap;datatype:int,name:ip;datatype:string,name:mascara;datatype:string,name:mac;datatype:string,name:banda;datatype:string,name:status;datatype:string,name:motivoBloqueio;datatype:blob,name:wpaPsk;datatype:string,name:eqptoPwd;datatype:string,name:loginFinanceiro;datatype:string,name:emailContato;datatype:string,name:nome;datatype:string,name:endereco;datatype:string,name:numero;datatype:string,name:bairro;datatype:string,name:cep;datatype:string,name:telefone;datatype:string,name:celular;datatype:string,name:funcionario;datatype:string,name:dataUltMod;datatype:datetime,name:observacoes;datatype:blob" />
+</info>
